@@ -36,8 +36,8 @@ dependencies {
     androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.2'
 }
 
-def userName = "hellolifei1989"
-def userKey = ""
+def userName = "li-fei"
+def userKey = "99c3215082af325191fbff8922541b3de5a5a87d"
 //项目主页
 def siteUrl = 'https://github.com/li-fei/Fly'
 //项目的git地址
@@ -101,8 +101,8 @@ install {
                 developers {
                     developer {
                         //开发者的个人信息
-                        id 'hellolifei1989'
-                        name 'FeiLi'
+                        id 'li-fei'
+                        name 'li-fei'
                         email 'hellolifei1989@gmail.com'
                     }
                 }
